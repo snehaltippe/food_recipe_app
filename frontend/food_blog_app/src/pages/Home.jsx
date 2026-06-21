@@ -5,7 +5,7 @@ import RecipeItem from '../components/RecipeItem'
 import { useLoaderData, useNavigate } from 'react-router-dom'
 import  Modal   from '../components/Modal'
 import InputForm from '../components/InputForm'
-// import foodImage from "./assets/default_food.jpg";
+
 
  export default function Home() {
    const navigate=useNavigate()
